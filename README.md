@@ -4,4 +4,4 @@ EITM is a VR project made in 2019-2020 for a Project during my first year in EPI
 
 ## What you'll find in this git
 
-For now I just had the chance to find again my reports (in french) that I'll translate in the futur. And I shared an extract of a video explained the final version of my project 
+For now I just had the chance to find again my reports (in french) that I'll translate in the futur. And I shared an extract of a video showing a demo of the final version of my project.
