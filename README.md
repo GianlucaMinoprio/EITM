@@ -1,6 +1,6 @@
 # EITM
 
-EITM is a VR project made in 2019-2020 for a Project during my first year in EPITA. The objective was to create a Virtual Workspace to be able to work with our computre with multiple virtual screeen.
+EITM (Enter in the Matrix) is a VR project made in 2019-2020 for a Project during my first year in EPITA. The objective was to create a Virtual Workspace to be able to work with our computre with multiple virtual screeen.
 
 ## What you'll find in this git
 
